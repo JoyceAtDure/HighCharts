@@ -1,0 +1,12 @@
+
+//${JSON.stringify(res.data.map(d => ({
+//   Deaths: d.Deaths
+// })), null, 2)}
+
+---prepare---
+Developer tools-for designing ui,
+training period
+html,bootstrap,materialize,foundation,animation,
+UI/UX design 
+
+sarita-UI developer
